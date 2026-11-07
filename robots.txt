@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kast-card-referral.vercel.app/sitemap.xml
